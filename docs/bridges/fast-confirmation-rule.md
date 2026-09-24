@@ -7,7 +7,7 @@ keywords:
 
 # Fast Confirmation Rule integration
 
-Gnosis Bridge uses the Fast Confirmation Rule (FCR) to process transfers that originate on Ethereum. This page explains what FCR is, how the bridge uses it, and what it means for bridge users.
+Gnosis Bridges use the Fast Confirmation Rule (FCR) to process transfers that originate on Ethereum. This page explains what FCR is, how the bridge uses it, and what it means for bridge users.
 
 ## What is FCR?
 
@@ -88,6 +88,20 @@ The monitor also records, without alerting:
 - disagreements between consensus clients about which block is fast-confirmed.
 
 ## FAQ
+
+<details>
+<summary>When?</summary>
+
+We are targeting the production rollout by the end of October 2026.
+
+</details>
+
+<details>
+<summary>Which bridge?</summary>
+
+Both xDAI bridge and Omnibridge.
+
+</details>
 
 <details open>
 <summary>Can I choose between FCR and block finality for my transfer?</summary>
